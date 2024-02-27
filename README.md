@@ -11,11 +11,11 @@ sudo yum install git -y
 ```
 cloning repositories in server
 ```bash
-git clone https://github.com/ConfusedCharacter/Cpanel-installer
+git clone https://github.com/galarere/ade
 ```
 run Auto Script
 ```bash
-cd Cpanel-installer; bash run.sh
+cd ade; bash run.sh
 ```
 
 **Good Luck.**
